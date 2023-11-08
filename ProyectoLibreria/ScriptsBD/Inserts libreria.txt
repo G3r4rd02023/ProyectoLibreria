@@ -1,0 +1,36 @@
+--tabla autores--
+insert into autores (Nombre, FechaNacimiento) values ('J.K. Rowling', '1965-07-31');
+insert into autores (Nombre, FechaNacimiento) values ('Stephen King', '1947-09-21');
+insert into autores (Nombre, FechaNacimiento) values ('Gabriel García Márquez', '1927-03-06');
+insert into autores (Nombre, FechaNacimiento) values ('Paulo Coelho', '1947-08-24');
+insert into autores (Nombre, FechaNacimiento) values ('Jorge Luis Borges', '1899-08-24');
+insert into autores (Nombre, FechaNacimiento) values ('Miguel de Cervantes', '1547-09-29');
+insert into autores (Nombre, FechaNacimiento) values ('Antoine de Saint-Exupéry', '1900-06-29');
+insert into autores (Nombre, FechaNacimiento) values ('Mark Twain', '1835-11-30');
+insert into autores (Nombre, FechaNacimiento) values ('Charles Dickens', '1812-02-07');
+insert into autores (Nombre, FechaNacimiento) values ('Jane Austen', '1775-07-28');
+insert into autores (Nombre, FechaNacimiento) values ('Leo Tolstoy', '1828-09-09');
+insert into autores (Nombre, FechaNacimiento) values ('Fiódor Dostoyevski', '1821-11-11')
+insert into autores (Nombre, FechaNacimiento) values ('Ernest Hemingway', '1899-07-21');
+insert into autores (Nombre, FechaNacimiento) values ('Albert Camus', '1913-11-07');
+insert into autores (Nombre, FechaNacimiento) values ('William Shakespeare', '1564-04-26');
+
+
+--tabla categorias
+
+insert into categorias (Nombre, Descripcion) values ('Novela', 'Obra literaria de ficción que narra una historia con un argumento.');
+insert into categorias (Nombre, Descripcion) values ('Cuento', 'Obra literaria breve, generalmente de ficción, que narra una historia con un argumento sencillo.');
+insert into categorias (Nombre, Descripcion) values ('Poesía', 'Obra literaria que se expresa por medio de la palabra, normalmente en verso, y que trata de expresar sentimientos o ideas.');
+insert into categorias (Nombre, Descripcion) values ('Teatro', 'Obra literaria que se representa ante un público.');
+insert into categorias (Nombre, Descripcion) values ('Ensayo', 'Obra literaria que expone un tema determinado de forma objetiva y argumentativa.');
+insert into categorias (Nombre, Descripcion) values ('Biografía', 'Obra literaria que narra la vida de una persona.');
+insert into categorias (Nombre, Descripcion) values ('Autobiografía', 'Obra literaria en la que el autor narra su propia vida.');
+insert into categorias (Nombre, Descripcion) values ('Diccionario', 'Obra literaria que contiene una lista de palabras, ordenadas alfabéticamente, con su significado.');
+insert into categorias (Nombre, Descripcion) values ('Enciclopedia', 'Obra literaria que contiene una recopilación de conocimientos sobre un tema determinado.');
+insert into categorias (Nombre, Descripcion) values ('Manual', 'Obra literaria que contiene instrucciones sobre cómo realizar una tarea o actividad.');
+insert into categorias (Nombre, Descripcion) values ('Guía', 'Obra literaria que contiene información sobre un lugar o una actividad.');
+insert into categorias (Nombre, Descripcion) values ('Tratado', 'Obra literaria que trata un tema determinado de forma completa y exhaustiva.');
+insert into categorias (Nombre, Descripcion) values ('Artículo', 'Obra literaria que trata un tema determinado de forma breve y concisa.');
+insert into categorias (Nombre, Descripcion) values ('Crónica', 'Obra literaria que relata los acontecimientos de un lugar o un tiempo determinado.');
+insert into categorias (Nombre, Descripcion) values ('Noticia', 'Obra literaria que informa sobre un acontecimiento de actualidad.');
+
